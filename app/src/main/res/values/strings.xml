@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">app-api</string>
 
-    <string name="label_login_user">user</string>
+    <string name="label_login_user">Usuario</string>
+    <string name="label_login_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
 
 </resources>
